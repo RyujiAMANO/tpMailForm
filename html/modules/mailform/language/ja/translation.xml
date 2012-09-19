@@ -1,0 +1,325 @@
+<language>
+
+	<import dirname="pengin" name="form"/>
+
+	<s>TOKYOPen</s>
+	<t>東京ペン</t>
+
+	<s>Mailform</s>
+	<t>メールフォーム</t>
+
+	<s>Send Mail</s>
+	<t>送信する</t>
+
+	<s>Please review the details entered.</s>
+	<t>入力内容をご確認ください。</t>
+
+	<s>Thank you for the inquiry.</s>
+	<t>お問い合わせありがとうございました。</t>
+
+	<s>We will be in touch soon.</s>
+	<t>近日中に担当者よりご連絡させていただきます。</t>
+
+	<s>We sent e-mail to you for the check.</s>
+	<t>確認のためにe-mailを送りました。</t>
+
+	<s>Form Preference</s>
+	<t>基本設定</t>
+
+	<s>Permission denied.</s>
+	<t>権限がありません。</t>
+
+	<s>Page not found.</s>
+	<t>ページが見つかりません。</t>
+
+	<s>Mail to Sender</s>
+	<t>送信者に控えメールを送信する</t>
+
+	<s>Receiver Email</s>
+	<t>担当者メールアドレス</t>
+
+	<s>You can specify emails multiply by email separated with comma.</s>
+	<t>複数のメールアドレスを指定する場合は、半角コンマ(,)で区切ってください。</t>
+
+	<s>Screen Preference</s>
+	<t>画面設定</t>
+
+	<s>Successfully saved.</s>
+	<t>保存しました。</t>
+
+	<s>Form Title</s>
+	<t>フォームタイトル</t>
+
+	<s>Please create at least one field.</s>
+	<t>入力欄は最低1つ以上作成してください。</t>
+
+	<s>Row {1}</s>
+	<t>行 {1}</t>
+
+	<s>Label</s>
+	<t>入力欄名</t>
+
+	<s>Please place a field.</s>
+	<t>入力欄を配置してください。</t>
+
+	<s>Unexpected field.</s>
+	<t>予期しない入力欄です。</t>
+
+	<s>Failed to save form data.</s>
+	<t>フォームデータの保存に失敗しました。</t>
+
+	<s>Failed to delete old fields.</s>
+	<t>古い入力欄データの削除に失敗しました。</t>
+
+	<s>Field data not found: id: {1}</s>
+	<t>入力欄データが見つかりません: ID: {1}</t>
+
+	<s>Failed to save field data: id: {1}</s>
+	<t>入力欄データの保存に失敗しました: ID: {1}</t>
+
+	<s>Failed to update field name: id: {1}</s>
+	<t>入力欄識別子の更新に失敗しました: ID: {1}</t>
+
+	<s>Form Description</s>
+	<t>フォーム説明文</t>
+
+	<s>(optional)</s>
+	<t>(任意)</t>
+
+	<s>Move</s>
+	<t>移動する</t>
+
+	<s>Palette</s>
+	<t>パレット</t>
+
+	<s>Delete Field</s>
+	<t>入力欄を削除する</t>
+
+	<s>Field Option</s>
+	<t>入力欄設定</t>
+
+	<s>Add a New Row</s>
+	<t>行を追加する</t>
+
+	<s>Remove Row</s>
+	<t>行を削除する</t>
+
+	<s>No Label</s>
+	<t>名称未設定</t>
+
+	<s>Save Screen Preference</s>
+	<t>画面設定を保存する</t>
+
+	<s>Textarea</s>
+	<t>テキストエリア</t>
+
+	<s>Default Value</s>
+	<t>初期値</t>
+
+	<s>Rows</s>
+	<t>行数</t>
+
+	<s>Cols</s>
+	<t>幅</t>
+
+	<s>Must be number integer than {1}</s>
+	<t>{1}以上の整数を入力してください。</t>
+
+	<s>Checkbox</s>
+	<t>チェックボックス</t>
+
+	<s>Options</s>
+	<t>選択肢</t>
+
+	<s>You can specify options multiply by option separated with line break.</s>
+	<t>複数の選択肢を指定する場合は、改行で区切ってください。</t>
+
+	<s>Email</s>
+	<t>メールアドレス</t>
+
+	<s>Sender Name</s>
+	<t>送信者名</t>
+
+	<s>Radio</s>
+	<t>ラジオ</t>
+
+	<s>Select</s>
+	<t>セレクト</t>
+
+	<s>Textbox</s>
+	<t>テキストボックス</t>
+
+	<s>Are you sure to delete this field?</s>
+	<t>この入力欄を削除してもよろしいですか?</t>
+
+	<s>Are you sure to remove this row?</s>
+	<t>この行を削除してもよろしいですか?</t>
+
+	<s>Your Name</s>
+	<t>お名前</t>
+
+	<s>Your Email</s>
+	<t>メールアドレス</t>
+
+	<s>Body Text</s>
+	<t>お問い合わせ内容</t>
+
+	<s><![CDATA[<p>Please fill out the form below to contact us.</p>]]></s>
+	<t><![CDATA[<p>下記のフォームにご入力の上、お問い合わせください。</p>]]></t>
+
+	<s>Please input your email address exactly.</s>
+	<t>メールアドレスはお間違えのないようにご入力ください。</t>
+
+	<s>Please place one Sender Name field.</s>
+	<t>「送信者名」の入力欄は必ずひとつ配置してください。</t>
+
+	<s>Sender Name field must be one. {1} fields were placed.</s>
+	<t>「送信者名」の入力欄は必ずひとつにしてください。{1}つの入力欄が配置されています。</t>
+
+	<s>Please place one Email field.</s>
+	<t>「メールアドレス」の入力欄は必ずひとつ配置してください。</t>
+
+	<s>Email field must be one. {1} fields were placed.</s>
+	<t>「メールアドレス」の入力欄は必ずひとつにしてください。{1}つの入力欄が配置されています。</t>
+
+	<s>If you want to remove Email or Sender Name field, pleace turn off 'Mail to Sender' setting at Form Preference.</s>
+	<t>「送信者名」または「メールアドレス」を取り除く場合は「基本設定」にて「送信者に控えメールを送信する」を「いいえ」に設定してください。</t>
+
+	<s>Requiring setting must be on.</s>
+	<t>必須設定をオンにしてください。</t>
+
+	<s>These default value is not in the options: {1}</s>
+	<t>初期値に指定されている値はオプションにないものです: {1}</t>
+
+	<s>Open Status</s>
+	<t>受付状況</t>
+
+	<s>Private</s>
+	<t>未公開</t>
+
+	<s>Opened</s>
+	<t>受付中</t>
+
+	<s>Closed</s>
+	<t>終了</t>
+
+	<s>Form List</s>
+	<t>フォーム一覧</t>
+
+	<s>CSV Export</s>
+	<t>CSV出力</t>
+
+	<s>Create A New Form</s>
+	<t>フォーム新規作成</t>
+
+	<s>Mail to Receiver</s>
+	<t>担当者に通知メールを送信する</t>
+
+	<s>Please place Email and Sender Name field at Screen Preference in order to turn on 'Mail to Sender'.</s>
+	<t>「送信者に控えメールを送信する」を有効にするためには、画面設定にて「メールアドレス」「送信者名」の入力欄を配置してください。</t>
+
+	<s>Finish Message</s>
+	<t>フォーム送信完了画面の文言</t>
+
+	<s>Form Open Status Management</s>
+	<t>フォーム受付状況管理</t>
+
+	<s>Current Open Status</s>
+	<t>現在の受付状況</t>
+
+	<s>Unexpected screen transition.</s>
+	<t>予期しない画面遷移です。</t>
+
+	<s>Failed to update form stauts.</s>
+	<t>フォーム受付状況の更新に失敗しました。</t>
+
+	<s>Successfully updated form status.</s>
+	<t>フォーム受付状況を更新しました。</t>
+
+	<s>Open This Form</s>
+	<t>フォームの受付を開始する</t>
+
+	<s>If form is opened once, it will be unable to change 'Screen Preference' any more.</s>
+	<t>受付を開始すると、画面設定の変更ができなくなります。</t>
+
+	<s>If form is opened once, it will be unable to rewind to private status.</s>
+	<t>受付を開始すると、再度未公開にすることができなくなります。</t>
+
+	<s>Are you sure to open this form?</s>
+	<t>本当に受付を開始してもよろしいでしょうか？</t>
+
+	<s>Close This Form</s>
+	<t>フォームの受付を終了する</t>
+
+	<s>If form is closed once, it will be unable to rewind to opened status.</s>
+	<t>受け付けを終了すると、受付再開できません。</t>
+
+	<s>Are you sure to close this form?</s>
+	<t>本当に受付を終了してもよろしいでしょうか？</t>
+
+	<s>Opend form is not able to change screen setting.</s>
+	<t>受付が開始されたフォームは画面設定が変更できません。</t>
+
+	<s>This form is private status. Private form doesn't mail and save the entry.</s>
+	<t>このフォームは未公開です。未公開のフォームは投稿しても、投稿内容の保存・メール送信を行いません。</t>
+
+	<s>Preview List Mode</s>
+	<t>一覧表示確認モードへ</t>
+
+	<s>Back to Admin Mode</s>
+	<t>管理者モードに戻る</t>
+
+	<s>Can not change screen setting, as entry data already exist.</s>
+	<t>既に投稿データが存在しているため、画面設定の変更ができません。</t>
+
+	<s>Entry ID</s>
+	<t>投稿ID</t>
+
+	<s>Sender Username</s>
+	<t>送信ユーザ名</t>
+
+	<s>Sent Date Time</s>
+	<t>送信日時</t>
+
+    <s>View Form</s>
+    <t>フォームを見る</t>
+
+	<s>Your Entry for {1}</s>
+	<t>「{1}」へのご送信内容</t>
+
+	<s>Entry Contents</s>
+	<t>送信内容</t>
+
+	<s>Entry Date</s>
+	<t>送信日時</t>
+
+	<s>You have sent following entries for {1}.</s>
+	<t>下記はフォーム「{1}」にてご送信いただいた内容です。</t>
+
+	<s>You have no entries for {1} yet.</s>
+	<t>フォーム「{1}」はご利用いただいておりません。</t>
+
+	<s>View my entry</s>
+	<t>送信内容確認</t>
+
+	<s>Set User Email</s>
+	<t>ユーザ情報を使用</t>
+
+	<s>If set yes, user email information will be used as default value.</s>
+	<t>設定を「はい」にすると、ユーザ情報のメールアドレスが初期値として表示されます。</t>
+
+	<s>Set User Name</s>
+	<t>ユーザ情報を使用</t>
+
+	<s>Use user name</s>
+	<t>氏名を使用する</t>
+
+	<s>Use user nick name</s>
+	<t>ユーザ名を使用する</t>
+
+	<s>Not use user info</s>
+	<t>使用しない</t>
+
+	<s>If set this option, user information will be used as default value.</s>
+	<t>この設定は、ユーザ情報の氏名/ユーザ名を初期値として表示するかを設定します。</t>
+</language>
