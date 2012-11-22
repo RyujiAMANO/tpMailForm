@@ -23,6 +23,10 @@ class Mailform_Controller_EntryView extends Mailform_Abstract_Controller
 
 	protected function _checkPermission()
 	{
+		if ( $this->root->cms->isGuest() ) {
+			$this->root->redirect(t("Page not found."), 'form_list');
+		}
+
 		if ( $this->root->cms->isAdmin() === false and $this->formModel->isOpened() === false ) {
 			$this->root->redirect(t("Page not found."), 'form_list');
 		}
